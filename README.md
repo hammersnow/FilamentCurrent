@@ -1,1 +1,2 @@
-# filament
+Critdaily.sh fil.sh monthlyfilamenttable.sh These shell scripts collect and log the filament current values ​​of x-ray generators on mv3d devices. 
+The graphical interface program called filament2 in the filament 2 build file presents the filament current values ​​as a visual interface. It can be controlled by selecting the date. It is tinted from green to red, from good to bad. It states how many critical and risky x-ray generators there are in total.
